@@ -8,7 +8,7 @@ int main() {
 	cin>>t;
 	while(t--){
 	    int n,m,ans;
-	    cin>>n>>m<<endl;
+	    cin>>n>>m;
 		ans=n*m;
 	    cout<<ans<<endl;
 	}
